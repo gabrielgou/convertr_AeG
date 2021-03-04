@@ -20,7 +20,7 @@ Unidades de Medida POSC v2.2 e da Wikipedia.
 
 As unidades são convertidas usando uma tabela de pesquisa, com base no
 dicionário POSC. Você pode explorar esta tabela usando a função
-explore\_units (). Esta função inicia um aplicativo brilhante.
+explore\_units (). Esta função inicia um aplicativo do shiny.
 
 Descobrir quais unidades podem ser convertidas entre si pode ser
 complicado, então convertr vem com um gadget brilhante para ajudá-lo a
