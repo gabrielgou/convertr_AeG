@@ -1,0 +1,40 @@
+---
+title: "Conversor R"
+author: "gabriel e peu"
+date: "04/03/2021"
+output: 
+  github_document: 
+    fig_width:  9
+    fig_height: 5
+---
+
+## Instalacao
+
+Baixe o pacote com: 
+```{r, eval=FALSE}
+install.packages("devtools")
+devtools::install_github("gabrielgou/convertr_AeG")
+```
+
+
+
+## Uso
+
+O pacote contém uma função que converte vetores numéricos de uma unidade para outra. Os dados sobre os fatores de conversão vêm do Dicionário de Unidades de Medida POSC v2.2 e da Wikipedia.
+
+As unidades são convertidas usando uma tabela de pesquisa, com base no dicionário POSC. Você pode explorar esta tabela usando a função explore_units (). Esta função inicia um aplicativo brilhante.
+
+Descobrir quais unidades podem ser convertidas entre si pode ser complicado, então convertr vem com um gadget brilhante para ajudá-lo a construir expressões convert () válidas. Isso pode ser acessado chamando convert_gadget () ou através do menu addin. Para acessar o addin, certifique-se de estar usando uma versão recente do RStudio.
+
+## Exemplo
+```{r}
+
+```
+![Primeiro Passo](C:\Users\Gabriel\Documents\convertr\exemplo 1.png)
+![Segundo Passo](C:\Users\Gabriel\Documents\convertr\exemplo 2.png)
+
+## Creditos 
+
+```{r, eval=FALSE}
+https://github.com/cran/convertr
+```
