@@ -28,9 +28,26 @@ As unidades são convertidas usando uma tabela de pesquisa, com base no dicioná
 Descobrir quais unidades podem ser convertidas entre si pode ser complicado, então convertr vem com um gadget brilhante para ajudá-lo a construir expressões convert () válidas. Isso pode ser acessado chamando convert_gadget () ou através do menu addin. Para acessar o addin, certifique-se de estar usando uma versão recente do RStudio.
 
 ## Exemplo
-```{r}
 
+Adicionar a biblioteca
+```{r, eval=FALSE}
+
+library("convertr")
 ```
+
+Ou usar apenas os comandos da biblioteca pela classe, como abaixo:
+
+Conversão de Km/h para m/s:
+```{r, eval=TRUE}
+convertr::convert(108,'km/h','m/s')
+```
+Conversão de pressão, Bar para Kpa:
+```{r, eval=TRUE}
+convertr::convert(1,'bar','kPa')
+```
+
+# Modo Gráfico
+
 ![Primeiro Passo](exemplo 1.png)
 ![Segundo Passo](exemplo 2.png)
 
