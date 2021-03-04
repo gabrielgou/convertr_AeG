@@ -30,8 +30,8 @@ Descobrir quais unidades podem ser convertidas entre si pode ser complicado, ent
 ```{r}
 
 ```
-![Primeiro Passo](C:\Users\Gabriel\Documents\convertr\exemplo 1.png)
-![Segundo Passo](C:\Users\Gabriel\Documents\convertr\exemplo 2.png)
+![Primeiro Passo](exemplo 1.png)
+![Segundo Passo](exemplo 2.png)
 
 ## Creditos 
 

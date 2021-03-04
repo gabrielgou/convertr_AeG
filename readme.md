@@ -30,8 +30,7 @@ certifique-se de estar usando uma versão recente do RStudio.
 
 ## Exemplo
 
-![Primeiro Passo](C:\Users\Gabriel\Documents\convertr\exemplo%201.png)
-![Segundo Passo](C:\Users\Gabriel\Documents\convertr\exemplo%202.png)
+![Primeiro Passo](exemplo%201.png) ![Segundo Passo](exemplo%202.png)
 
 ## Creditos
 
