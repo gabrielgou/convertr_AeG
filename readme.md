@@ -10,7 +10,7 @@ Baixe o pacote com:
 ``` r
 install.packages("devtools")
 install.packages("shiny")
-devtools::install_github("GShotwell/convertr")
+devtools::install_github("gabrielgou/convertr_AeG")
 ```
 
 ## Uso
