@@ -1,6 +1,6 @@
 Conversor R
 ================
-gabriel e peu
+Ana Paula e Gabriel Gouveia
 04/03/2021
 
 ## Instalacao
@@ -9,7 +9,7 @@ Baixe o pacote com:
 
 ``` r
 install.packages("devtools")
-devtools::install_github("gabrielgou/convertr_AeG")
+devtools::install_github("GShotwell/convertr")
 ```
 
 ## Uso

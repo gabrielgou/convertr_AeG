@@ -1,6 +1,6 @@
 ---
 title: "Conversor R"
-author: "gabriel e peu"
+author: "Ana Paula e Gabriel Gouveia"
 date: "04/03/2021"
 output: 
   github_document: 
@@ -13,7 +13,7 @@ output:
 Baixe o pacote com: 
 ```{r, eval=FALSE}
 install.packages("devtools")
-devtools::install_github("gabrielgou/convertr_AeG")
+devtools::install_github("GShotwell/convertr")
 ```
 
 
