@@ -13,6 +13,7 @@ output:
 Baixe o pacote com: 
 ```{r, eval=FALSE}
 install.packages("devtools")
+install.packages("shiny")
 devtools::install_github("GShotwell/convertr")
 ```
 
